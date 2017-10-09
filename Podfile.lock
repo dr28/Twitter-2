@@ -1,0 +1,39 @@
+PODS:
+  - ACProgressHUD-Swift (1.2)
+  - AFNetworking (3.0.0):
+    - AFNetworking/NSURLSession (= 3.0.0)
+    - AFNetworking/Reachability (= 3.0.0)
+    - AFNetworking/Security (= 3.0.0)
+    - AFNetworking/Serialization (= 3.0.0)
+    - AFNetworking/UIKit (= 3.0.0)
+  - AFNetworking/NSURLSession (3.0.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.0)
+  - AFNetworking/Security (3.0.0)
+  - AFNetworking/Serialization (3.0.0)
+  - AFNetworking/UIKit (3.0.0):
+    - AFNetworking/NSURLSession
+  - BDBOAuth1Manager (2.0.0):
+    - AFNetworking/NSURLSession (~> 3.0.0)
+  - FXBlurView (1.6.4)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - ACProgressHUD-Swift (~> 1.2)
+  - AFNetworking (= 3.0.0)
+  - BDBOAuth1Manager (= 2.0.0)
+  - FXBlurView
+  - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  ACProgressHUD-Swift: a08e699b2d8b3f3528d77c021ad6a326bc16f76d
+  AFNetworking: 932ff751f9d6fb1dad0b3af58b7e3ffba0a4e7fd
+  BDBOAuth1Manager: 92d17d06f8a648602962304cd2f35ae7394fa001
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: f4effba8550cd6727ee8195f5b3a8053b14a4b81
+
+COCOAPODS: 1.3.1
